@@ -8,7 +8,7 @@ so...I learn so many things about how i can displyand  control the document also
 ## text 2
 ###### text 3
 
-2.# list 
+2. # list 
 1. Item 1
 1. Item 2
 1. Item 3
