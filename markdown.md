@@ -16,7 +16,8 @@ so...I learn so many things about how i can displyand  control the document also
    1. Item 3b
    
 3. # add link
-http://github.com - automatic!
-[google](https://www.google.com/search?q=google&rlz=1C1CHZL_enJO873JO873&oq=g&aqs=chrome.2.69i59l2j0j69i60l3.1852j0j7&sourceid=chrome&ie=UTF-8)
+
+[google]
+(https://www.google.com/search?q=google&rlz=1C1CHZL_enJO873JO873&oq=g&aqs=chrome.2.69i59l2j0j69i60l3.1852j0j7&sourceid=chrome&ie=UTF-8)
 
 it was so intresting :+1:
